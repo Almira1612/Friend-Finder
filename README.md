@@ -13,10 +13,10 @@ Friend Finder is deployed to Heroku. Check [here](link) to find out.
 
 To install the application follow the instructions below:
 
-git clone 
-cd friend-finder
-npm install
-Running Locally
+- git clone 
+- cd friend-finder
+- npm install
+- Running Locally
 
 export PORT=3000
 After the PORT environment variable has been set, run the Node.js application with the command below.
