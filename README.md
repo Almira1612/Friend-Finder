@@ -7,7 +7,7 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
 
 ## Demo
 
-Friend Finder is deployed to Heroku. Check [here](link) to find out.
+Friend Finder is deployed to Heroku. Check [here](https://damp-springs-37621.herokuapp.com/) to find out.
 
 ## Installation
 
